@@ -1,0 +1,12 @@
+HTTP/1.1 302 Found
+Date: Wed, 02 June 2026 08:15:04 GMT
+Server: Apache/2.4.25 (Debian)
+Set-Cookie: PHPSESSID=1m1ccpfkrcfvhn27nr95s0ebu6; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: PHPSESSID=1m1ccpfkrcfvhn27nr95s0ebu6; path=/
+Set-Cookie: security=low
+Location: login.php
+Content-Type: text/html; charset=UTF-8
+
